@@ -12,6 +12,7 @@ Optical character recognition, using c-sharp and asp.net with help of Azure Cogn
     using System.Threading;
     
 Kindly make sure you are having .NET Framework 4.5.2, in order to install RestSharp Package.
+
 If Not Follow the below steps,
 To Install RestSharp Package, Goto Tools -> NuGet Package Manager -> Package Manager Console -> ``` Install-Package RestSharp -Version 106.3.1 ```
     
